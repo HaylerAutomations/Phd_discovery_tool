@@ -1,2 +1,2 @@
-# Phd_discovery_tool
+# Phd Discovery Tool
 Python script to automate the scraping of FindAPhD.com
